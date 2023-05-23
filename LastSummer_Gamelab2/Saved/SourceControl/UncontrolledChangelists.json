@@ -5,7 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/Maps/Level1.umap"
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/Maps/Level1.umap",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Materials/M_Solid.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"C:/GitProjects/Last-Summer/LastSummer_Gamelab2/Content/LevelPrototyping/Meshes/SM_Ramp.uasset"
 			]
 		}
 	]
