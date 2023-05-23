@@ -1642,3 +1642,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.23-10.00.58:135][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 1.02 sec)
 [2023.05.23-10.00.58:139][346]AssetCheck: New page: Asset Save: Level1
 [2023.05.23-10.00.58:139][346]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Level1.Level1
+[2023.05.23-10.11.32:799][326]LogDerivedDataCache: C:/Users/ulrik/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.800 and deleted 0 files with total size 0 MiB. Scanned 13156 files in 12596 folders with total size 262 MiB.
